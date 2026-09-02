@@ -1,0 +1,70 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+======================================
+
+Copyright (c) 2026 Sohan Ananthula ("mr.perfect"). All Rights Reserved.
+
+This software, including but not limited to its source code, object code,
+user interface, visual layout, look and feel, design system, component
+structure, styling, typography, iconography, color systems, animations,
+copy/text, and all associated documentation (collectively, the "Work"), is
+the exclusive proprietary intellectual property of Sohan Ananthula (the
+"Owner").
+
+1. ALL RIGHTS RESERVED
+   No license, right, title, or interest of any kind is granted, whether by
+   implication, estoppel, or otherwise, except as expressly and specifically
+   set forth in a separate written agreement signed by the Owner. Possession
+   of, or access to, the Work does not confer any right to use it.
+
+2. PROHIBITED CONDUCT
+   Without the Owner's prior express written permission, no part of the Work
+   may be, in whole or in part:
+     (a) reproduced, copied, duplicated, or cloned;
+     (b) screenshotted, screen-recorded, photographed, or otherwise captured
+         for the purpose of replication, redistribution, or ingestion;
+     (c) submitted to, used as input for, or used to train, fine-tune, or
+         prompt any generative artificial intelligence, machine-learning,
+         or "frontend cloning" tool or service;
+     (d) scraped, crawled, harvested, or extracted by automated means;
+     (e) transmitted, published, distributed, sublicensed, sold, rented,
+         leased, or otherwise made available to any third party in any form
+         or by any medium, now known or later developed;
+     (f) modified, adapted, translated, or used to create derivative works;
+     (g) reverse-engineered, decompiled, or disassembled, except to the
+         limited extent such restriction is expressly prohibited by
+         applicable law.
+
+3. NO TRANSFER OF OWNERSHIP
+   The Work is licensed, not sold. All intellectual property rights in and to
+   the Work, including all copyrights, trademarks, trade dress, and design
+   rights, remain the sole and exclusive property of the Owner at all times.
+
+4. CONFIDENTIALITY
+   The Work, including any non-public interfaces, staging environments, and
+   preview/staging links, constitutes the confidential information of the
+   Owner and must be kept strictly confidential.
+
+5. ENFORCEMENT
+   Unauthorized use of the Work is a material violation of this Agreement and
+   of applicable intellectual property law, and may result in immediate legal
+   action, including claims for injunctive relief and damages, and the
+   issuance of DMCA (17 U.S.C. Sec. 512) takedown notices to hosting
+   providers, registrars, and platforms.
+
+6. NO WARRANTY
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR ITS USE.
+
+7. GOVERNING LAW
+   This Agreement is governed by the laws applicable at the Owner's principal
+   place of residence/business, without regard to conflict-of-laws rules.
+
+For licensing inquiries, contact the Owner: Sohan Ananthula.
+
+-------------------------------------------------------------------------------
+NOTE: This document is a template prepared by an engineer, not legal advice.
+Have it reviewed by a qualified attorney before you rely on it for enforcement.
+-------------------------------------------------------------------------------
