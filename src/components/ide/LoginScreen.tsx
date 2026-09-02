@@ -147,6 +147,15 @@ export function LoginScreen() {
             <br />
             with the <code className="rounded bg-[#1f1f1f] px-1 py-0.5 text-[#cccccc]">repo</code> scope enabled.
           </p>
+
+          <footer className="mt-8 border-t border-[#1f1f1f] pt-4 text-center text-[10px] leading-relaxed text-[#5a5a5a]">
+            Copyright &copy; 2026 Sohan Ananthula. All Rights Reserved. This user
+            interface, layout, and visual design are the proprietary intellectual
+            property of Sohan Ananthula. Unauthorized replication, screenshots for
+            AI generation, or cloning of this interface is strictly prohibited and
+            will be met with immediate legal action and DMCA hosting takedown
+            notices.
+          </footer>
         </div>
       </div>
     </div>
