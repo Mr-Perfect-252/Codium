@@ -21,7 +21,7 @@ Codium turns any GitHub repo into a fully working remote dev environment inside 
 
 ## Screenshot
 
-![Codium IDE](./docs/screenshot.png)
+![Codium IDE](screenshot.png)
 
 The interface follows a familiar editor layout: a file explorer on the left scoped to the active sandbox, a Monaco-powered editor pane in the center with full syntax highlighting, and an integrated terminal panel along the bottom wired directly into the sandbox's shell. The status bar reports the live Daytona sandbox identity, language mode, encoding, and cursor position at all times, so it's always clear which remote environment is currently attached.
 
